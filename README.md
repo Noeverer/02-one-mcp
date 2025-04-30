@@ -1,4 +1,4 @@
-# all-one-mcp
+# mcp-hub
 
 We can use all in one mcp server. and deploy server use in online/offline.
 
